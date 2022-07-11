@@ -40,8 +40,8 @@ export class TuiUnderlineComponent {
 
     @Input()
     @tuiDefaultProp()
-    set element(element: HTMLElement | null) {
-        this.element$.next(element);
+    set element(element: HTMLElement | null | undefined) {
+        this.element$.next(element || null);
     }
 
     @HostBinding('class._ios')

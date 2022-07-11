@@ -27,6 +27,7 @@
     >
         <button
             tuiTab
+            [class._disabled]="!isMoreVisible"
             [class._active]="isMoreActive"
             [tuiFocusable]="isMoreFocusable"
             (keydown.arrowLeft.prevent)="onArrowLeft()"

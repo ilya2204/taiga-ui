@@ -22,8 +22,10 @@ import {
     toInt,
     TuiActiveZoneDirective,
     tuiAssertIsHTMLElement,
+    tuiClamp,
     TuiContextWithImplicit,
     tuiDefaultProp,
+    tuiPure,
 } from '@taiga-ui/cdk';
 import {TUI_MORE_WORD, TUI_TAB_MARGIN} from '@taiga-ui/kit/tokens';
 import {PolymorpheusContent} from '@tinkoff/ng-polymorpheus';
@@ -95,10 +97,23 @@ export class TuiTabsWithMoreComponent implements AfterViewInit {
         );
     }
 
-    get activeElement(): HTMLElement | null {
-        return this.options.exposeActive || this.lastVisibleIndex >= this.activeItemIndex
-            ? this.tabs[this.activeItemIndex] || null
-            : this.moreButton?.nativeElement || null;
+    // TODO: Improve performance
+    get visibleTabs(): readonly HTMLElement[] {
+        return Array.from<HTMLElement>(
+            this.elementRef.nativeElement.querySelectorAll('.t-tabs [tuiTab]'),
+        );
+    }
+
+    get activeElement(): HTMLElement | null | undefined {
+        if (this.options.exposeActive || this.lastVisibleIndex >= this.activeItemIndex) {
+            const visibleTabs = this.visibleTabs;
+            const lastVisibleIndex = visibleTabs.length - 1;
+            const clampedIndex = tuiClamp(this.activeItemIndex || 0, 0, lastVisibleIndex);
+
+            return visibleTabs[clampedIndex];
+        }
+
+        return this.moreButton?.nativeElement;
     }
 
     get isMoreVisible(): boolean {
@@ -127,6 +142,16 @@ export class TuiTabsWithMoreComponent implements AfterViewInit {
                 : 2;
 
         return Math.min(this.itemsLimit - offset, this.maxIndex);
+    }
+
+    @tuiPure
+    isOverflown(index: number): boolean {
+        return index !== this.activeItemIndex || !this.options.exposeActive;
+    }
+
+    @tuiPure
+    shouldShow(index: number): boolean {
+        return index > this.lastVisibleIndex && this.isOverflown(index);
     }
 
     ngAfterViewInit(): void {
@@ -181,14 +206,6 @@ export class TuiTabsWithMoreComponent implements AfterViewInit {
         if (target) {
             setNativeFocused(target);
         }
-    }
-
-    isOverflown(index: number): boolean {
-        return index !== this.activeItemIndex || !this.options.exposeActive;
-    }
-
-    shouldShow(index: number): boolean {
-        return index > this.lastVisibleIndex && this.isOverflown(index);
     }
 
     private focusMore(): void {
