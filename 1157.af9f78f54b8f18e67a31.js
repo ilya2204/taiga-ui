@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1157],{cid4:function(n,t,i){"use strict";i.r(t),t.default="@import 'taiga-ui-local';\n\n.description {\n    font: var(--tui-font-text-xs);\n    margin-top: @space;\n    color: var(--tui-text-03);\n}\n"}}]);

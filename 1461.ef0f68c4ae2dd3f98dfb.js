@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1461],{jN4C:function(n,t,i){"use strict";i.r(t),t.default='```html\n<button tuiDescribedBy="id">...</button>\n```\n'}}]);

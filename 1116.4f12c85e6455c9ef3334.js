@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1116],{O6it:function(s,e,n){"use strict";n.r(e),e.default='<tui-progress-segmented\n    class="progress"\n    [max]="5"\n    [value]="3"\n></tui-progress-segmented>\n'}}]);

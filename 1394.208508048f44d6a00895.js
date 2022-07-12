@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1394],{xkWU:function(n,e,p){"use strict";p.r(e),e.default=".wrapper {\n    display: flex;\n    align-items: center;\n}\n"}}]);

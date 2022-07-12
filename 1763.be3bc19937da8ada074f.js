@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1763],{BxD7:function(t,n,i){"use strict";i.r(n),n.default='<tui-table-pagination\n    [total]="total"\n    [items]="sizeOptions"\n></tui-table-pagination>\n'}}]);

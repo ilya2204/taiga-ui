@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[455],{"7pTb":function(n,t,a){"use strict";a.r(t),t.default="```html\n<tui-calendar-month></tui-calendar-month>\n```\n"}}]);

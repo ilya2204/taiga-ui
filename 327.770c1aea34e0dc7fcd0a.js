@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[327],{"6Q9X":function(n,o,u){"use strict";u.r(o),o.default="```ts\nimport {TuiBarModule} from '@taiga-ui/addon-charts';\n\n// ...\n\n@NgModule({\n  imports: [\n    // ...\n    TuiBarModule,\n  ],\n  // ...\n})\nexport class MyModule {}\n```\n"}}]);
