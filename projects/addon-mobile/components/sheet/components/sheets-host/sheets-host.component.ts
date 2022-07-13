@@ -22,6 +22,14 @@ export class TuiSheetsHostComponent {
         @Inject(TUI_WINDOW_HEIGHT) readonly height$: Observable<number>,
     ) {}
 
+    closeIfOutside(event: Event, item: TuiSheet<unknown>): void {
+        const isOutside = !(event.target as HTMLElement)?.closest('tui-sheet');
+
+        if (isOutside) {
+            this.close(item);
+        }
+    }
+
     close({closeable, $implicit}: TuiSheet<unknown>): void {
         if (closeable) {
             $implicit.complete();
