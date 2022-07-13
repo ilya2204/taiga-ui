@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[658],{Qy0k:function(n,i,o){"use strict";o.r(i),i.default="```ts\nimport {TuiFilterModule} from '@taiga-ui/kit';\n\n// ...\n\n@NgModule({\n  imports: [\n    // ...\n    TuiFilterModule,\n  ],\n  // ...\n})\nexport class MyModule {}\n```\n"}}]);

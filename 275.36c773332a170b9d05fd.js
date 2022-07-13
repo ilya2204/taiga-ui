@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[275],{kKMX:function(n,i,c){"use strict";c.r(i),i.default="```bash\nnpm i @taiga-ui/{cdk,core,kit,icons}\n```\n"}}]);

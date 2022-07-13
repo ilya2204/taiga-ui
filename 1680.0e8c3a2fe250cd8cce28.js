@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1680],{d8j3:function(t,e,i){"use strict";i.r(e),e.default='```html\n<div *ngFor="let item of items | tuiFilter: matcher: someArg">{{item}}</div>\n```\n'}}]);

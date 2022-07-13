@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1582],{P8LR:function(n,i,o){"use strict";o.r(i),i.default=".link {\n    display: block;\n    margin: 0.75rem 0;\n}\n"}}]);

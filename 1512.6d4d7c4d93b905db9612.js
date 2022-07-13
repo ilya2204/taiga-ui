@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1512],{"5YgW":function(i,n,t){"use strict";t.r(n),n.default='```html\n<div\n  tuiHintContent="Hello"\n  class="wrapper"\n>\n  <tui-primitive-textfield>...</tui-primitive-textfield>\n</div>\n```\n'}}]);

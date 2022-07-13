@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1405],{"i/yT":function(n,e,i){"use strict";i.r(e),e.default=".loader {\n    width: 2rem;\n    margin: 1rem 0;\n}\n"}}]);

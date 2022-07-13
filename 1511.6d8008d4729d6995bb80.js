@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1511],{MivR:function(n,o,i){"use strict";i.r(o),o.default="```ts\nimport {TuiHintControllerModule} from '@taiga-ui/core';\n\n// ...\n\n@NgModule({\n  imports: [\n    // ...\n    TuiHintControllerModule,\n  ],\n  // ...\n})\nexport class MyModule {}\n```\n"}}]);

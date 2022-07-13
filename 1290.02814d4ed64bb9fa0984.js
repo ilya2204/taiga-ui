@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1290],{NhAt:function(t,n,e){"use strict";e.r(n),n.default='<tui-stepper\n    orientation="vertical"\n    [activeItemIndex]="1"\n>\n    <button\n        *ngFor="let step of steps"\n        tuiStep\n    >\n        {{ step }}\n    </button>\n</tui-stepper>\n'}}]);

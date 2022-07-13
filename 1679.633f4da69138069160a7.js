@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1679],{eYmt:function(n,e,i){"use strict";i.r(e),e.default="```ts\nimport {TuiFilterPipeModule} from '@taiga-ui/cdk';\n\n// ...\n\n@NgModule({\n  imports: [\n    // ...\n    TuiFilterPipeModule,\n  ],\n  // ...\n})\nexport class MyModule {}\n```\n"}}]);

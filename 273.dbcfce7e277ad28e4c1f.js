@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[273],{"2vs0":function(s,i,n){"use strict";n.r(i),i.default="```less\n@import '~@taiga-ui/core/styles/taiga-ui-local';\n```\n"}}]);

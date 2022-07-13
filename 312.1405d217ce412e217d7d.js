@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[312],{"6wXY":function(n,s,a){"use strict";a.r(s),s.default='<tui-bar-set\n    class="bars"\n    [value]="value"\n></tui-bar-set>\n'}}]);

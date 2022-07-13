@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[972],{gQIw:function(n,o,e){"use strict";e.r(o),o.default="```ts\nimport {TuiLoaderModule} from '@taiga-ui/core';\n\n@NgModule({\n  imports: [\n    // ...\n    TuiLoaderModule,\n  ],\n})\nexport class MyModule {}\n```\n"}}]);

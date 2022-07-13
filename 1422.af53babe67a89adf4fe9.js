@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1422],{"4NzV":function(o,s,n){"use strict";n.r(s),s.default="```js\nimport glob from 'glob';\n\nimport {processIcons} from '@taiga-ui/icons/scripts';\n\nglob('./my-path-to-icons/**/*.svg', {}, (_err, files) => processIcons(files));\n```\n"}}]);

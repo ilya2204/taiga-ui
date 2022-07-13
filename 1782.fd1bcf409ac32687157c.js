@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1782],{mY6l:function(n,t,i){"use strict";i.r(t),t.default="```ts\nimport {isElementAtPoint} from '@taiga-ui/cdk';\n\n//...\nisAtPoint = isElementAtPoint(element, point.x, point.y);\n//...\n```\n"}}]);

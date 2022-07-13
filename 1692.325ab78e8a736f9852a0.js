@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1692],{nWmc:function(n,p,e){"use strict";e.r(p),p.default="<p>Transform {{ numbers }} into {{ numbers | tuiMapper: mapper:3 }}</p>\n"}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1742],{Bei6:function(e,n,i){"use strict";i.r(n),n.default="```ts\nthis.tuiScrollService.scroll$(this.elementRef.nativeElement, 500).subscribe();\n```\n"}}]);

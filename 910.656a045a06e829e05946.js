@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[910],{VQqy:function(s,n,c){"use strict";c.r(n),n.default=".success {\n    position: relative;\n    color: var(--tui-success-fill);\n}\n"}}]);

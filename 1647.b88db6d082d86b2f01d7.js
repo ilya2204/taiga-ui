@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1647],{WRDc:function(n,p,c){"use strict";c.r(p),p.default="<p>100 {{ 'RUB' | tuiCurrency }}</p>\n"}}]);
