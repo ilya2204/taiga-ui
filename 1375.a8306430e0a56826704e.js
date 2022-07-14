@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1375],{h2h7:function(e,t,n){"use strict";n.r(t),t.default='<tui-tree [value]="data"></tui-tree>\n'}}]);

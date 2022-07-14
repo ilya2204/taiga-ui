@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[873],{dRid:function(n,i,t){"use strict";t.r(i),i.default=".input {\n    width: 20rem;\n    direction: rtl;\n    text-align: right;\n}\n"}}]);

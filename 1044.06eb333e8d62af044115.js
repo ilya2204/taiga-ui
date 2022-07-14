@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1044],{IVaE:function(n,t,e){"use strict";e.r(t),t.default='<button\n    tuiButton\n    (click)="open = true"\n>\n    Taiga\n</button>\n<ng-template [(tuiPdfViewer)]="open">\n    <iframe\n        src="assets/media/taiga.pdf"\n        class="iframe"\n    ></iframe>\n</ng-template>\n'}}]);

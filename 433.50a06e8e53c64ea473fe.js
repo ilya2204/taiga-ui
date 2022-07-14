@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[433],{ftxb:function(n,t,i){"use strict";i.r(t),t.default='```html\n<tui-breadcrumbs [size]="size">\n  <ng-container *ngFor="let item of items">\n    <a\n      *tuiItem\n      tuiLink\n      [routerLink]="item.routerLink"\n    >\n      {{ item.caption }}\n    </a>\n  </ng-container>\n</tui-breadcrumbs>\n```\n'}}]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1187],{OoYI:function(n,o,t){"use strict";t.r(o),o.default="@import 'taiga-ui-local';\n\n.example {\n    .tui-space(bottom, 2);\n}\n\n.rating {\n    color: var(--tui-accent);\n}\n"}}]);

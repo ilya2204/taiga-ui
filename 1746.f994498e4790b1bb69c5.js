@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1746],{cELp:function(n,o,a){"use strict";a.r(o),o.default="```ts\nimport {TuiTablePaginationModule} from '@taiga-ui/addon-table';\n\n// ...\n\n@NgModule({\n  imports: [\n    // ...\n    TuiTablePaginationModule,\n  ],\n})\nexport class YourModule {}\n```\n"}}]);

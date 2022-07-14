@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[333],{nZoq:function(n,e,t){"use strict";t.r(e),e.default='```html\n<tui-legend-item [value]="value">Content</tui-legend-item>\n```\n'}}]);

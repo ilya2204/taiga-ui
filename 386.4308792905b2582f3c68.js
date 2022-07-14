@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[386],{"o/si":function(n,i,o){"use strict";o.r(i),i.default=".container {\n    max-width: 37.5rem;\n}\n"}}]);

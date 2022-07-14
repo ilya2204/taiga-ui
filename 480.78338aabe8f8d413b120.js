@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[480],{qZ8R:function(n,c,a){"use strict";a.r(c),c.default='```html\n<tui-card\n  cardNumber="1234"\n  class="logo"\n></tui-card>\n```\n'}}]);

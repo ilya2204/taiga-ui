@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[959],{SbdY:function(n,i,c){"use strict";c.r(i),i.default='<tui-marker-icon src="tuiIconBellLarge"></tui-marker-icon>\n'}}]);

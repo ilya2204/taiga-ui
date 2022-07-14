@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[288],{iTOH:function(a,n,t){"use strict";t.r(n),n.default='```html\n<tui-arc-chart [value]="value"></tui-arc-chart>\n```\n'}}]);

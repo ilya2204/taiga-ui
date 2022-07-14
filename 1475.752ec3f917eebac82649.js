@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1475],{pFKH:function(n,o,p){"use strict";p.r(o),o.default="```ts\nimport {TuiDropdownModule} from '@taiga-ui/core';\n\n// ...\n\n@NgModule({\n  imports: [\n    // ...\n    TuiDropdownModule,\n  ],\n  // ...\n})\nexport class MyModule {}\n```\n"}}]);

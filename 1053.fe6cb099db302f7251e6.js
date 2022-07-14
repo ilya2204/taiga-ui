@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1053],{R49E:function(n,t,w){"use strict";w.r(t),t.default=".content {\n    width: 80vw;\n    height: 80vh;\n}\n"}}]);

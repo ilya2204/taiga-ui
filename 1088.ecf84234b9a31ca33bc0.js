@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1088],{Ys6H:function(n,s,e){"use strict";e.r(s),s.default='<tui-progress-circle\n    size="xl"\n    [max]="max"\n    [value]="(value$ | async) || 0"\n></tui-progress-circle>\n'}}]);

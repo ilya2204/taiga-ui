@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1251],{woR9:function(n,o,t){"use strict";t.r(o),o.default='<tui-slider\n    [formControl]="testValue"\n    [max]="10"\n></tui-slider>\n'}}]);

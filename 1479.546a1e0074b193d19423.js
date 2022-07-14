@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1479],{xdDI:function(n,w,e){"use strict";e.r(w),w.default=".menu {\n    width: 12.5rem;\n}\n"}}]);

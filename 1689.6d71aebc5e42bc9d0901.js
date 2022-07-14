@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1689],{u4rP:function(p,n,o){"use strict";o.r(n),n.default="<p>Transform 10 into {{ 10 | tuiMapper: mapper:'\u20bd' }}</p>\n"}}]);

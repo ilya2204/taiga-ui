@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1693],{H11K:function(n,p,e){"use strict";e.r(p),p.default="```html\n{{item | tuiMapper: mapper: someArg}}\n```\n"}}]);

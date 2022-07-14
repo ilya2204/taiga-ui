@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1059],{CeXc:function(n,e,i){"use strict";i.r(e),e.default=".iframe {\n    width: 100%;\n    height: 100%;\n}\n"}}]);

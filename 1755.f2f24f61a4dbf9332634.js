@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1755],{NZNB:function(e,n,t){"use strict";t.r(n),n.default='```html\n<tui-reorder\n  [(items)]="items"\n  [(enabled)]="enabled"\n></tui-reorder>\n```\n'}}]);

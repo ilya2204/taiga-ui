@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[460],{eI4V:function(n,e,a){"use strict";a.r(e),e.default='<tui-calendar\n    [value]="value"\n    (dayClick)="onDayClick($event)"\n></tui-calendar>\n<div\n    *ngIf="value"\n    i18n\n>\n    Chosen date: {{ value }}\n</div>\n'}}]);

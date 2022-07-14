@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[655],{"a+Y5":function(n,i,a){"use strict";a.r(i),i.default="@import 'taiga-ui-local';\n\n.filters-with-all {\n    display: inline-flex;\n}\n"}}]);

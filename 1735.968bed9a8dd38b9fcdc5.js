@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1735],{k96x:function(e,t,n){"use strict";n.r(t),t.default="```html\n<ng-template #tableBarTemplate><p>Template</p></ng-template>\n```\n"}}]);

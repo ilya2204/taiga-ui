@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1825],{"4p5S":function(n,t,e){"use strict";e.r(t),t.default="```ts\nimport {getPaymentSystem} from '@taiga-ui/kit';\n\n//...\npaymentSystem = getPaymentSystem(cardNumber);\n// ...\n```\n"}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1448],{"HR/l":function(n,e,o){"use strict";o.r(e),e.default=".text {\n    margin: 1rem;\n}\n\n.icon {\n    cursor: context-menu;\n}\n"}}]);
