@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[11533],{11533:e=>{e.exports='export default ".axes {\\n    height: 18.75rem;\\n    width: 37.5rem;\\n}\\n";'}}]);

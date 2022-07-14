@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[50814],{50814:e=>{e.exports="export default \"@import 'taiga-ui-local';\\n\\nlabel {\\n    cursor: pointer;\\n}\\n\";"}}]);

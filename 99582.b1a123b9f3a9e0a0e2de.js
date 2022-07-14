@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[99582],{99582:(u,n,a)=>{a.r(n),a.d(n,{default:()=>o});const o="```ts\nimport {TuiTablePaginationModule} from '@taiga-ui/addon-table';\n\n// ...\n\n@NgModule({\n  imports: [\n    // ...\n    TuiTablePaginationModule,\n  ],\n})\nexport class YourModule {}\n```\n"}}]);

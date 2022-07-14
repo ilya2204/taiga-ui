@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[66375],{66375:(i,n,u)=>{u.r(n),u.d(n,{default:()=>e});const e="```ts\nimport {TuiLineClampModule} from '@taiga-ui/kit';\n\n// ...\n\n@NgModule({\n  imports: [\n    // ...\n    TuiLineClampModule,\n  ],\n  // ...\n})\nexport class MyModule {}\n```\n"}}]);

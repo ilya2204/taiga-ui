@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[70360],{70360:e=>{e.exports='export default ".inline-flex {\\n    display: inline-flex;\\n}\\n";'}}]);

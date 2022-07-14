@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[50090],{50090:(u,n,e)=>{e.r(n),e.d(n,{default:()=>t});const t="```ts\nexport class MyComponent {\n  @tuiPure\n  get complexCalculationWithFixedResult(): number {\n    // ...\n  }\n\n  @tuiPure\n  someMethod(arg1: number, arg2: {}): {} {\n    // ...\n  }\n}\n```\n"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[45e3],{45e3:(u,n,t)=>{t.r(n),t.d(n,{default:()=>i});const i="```ts\nimport {TuiStringifyContentPipeModule} from '@taiga-ui/kit';\n\n// ...\n\n@NgModule({\n  imports: [\n    // ...\n    TuiStringifyContentPipeModule,\n  ],\n  // ...\n})\nexport class MyModule {}\n```\n"}}]);

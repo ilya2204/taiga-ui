@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[88576],{88576:(o,n,u)=>{u.r(n),u.d(n,{default:()=>e});const e="```ts\nimport {TuiMapperPipeModule} from '@taiga-ui/cdk';\n\n// ...\n\n@NgModule({\n  imports: [\n    //    ...\n    TuiMapperPipeModule,\n  ],\n  //  ...\n})\nexport class MyModule {}\n```\n"}}]);

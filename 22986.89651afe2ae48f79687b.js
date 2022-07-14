@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[22986],{22986:(e,n,o)=>{o.r(n),o.d(n,{default:()=>u});const u="```ts\nimport {TuiDropdownSelectionModule} from '@taiga-ui/kit';\n\n// ...\n\n@NgModule({\n  imports: [\n    // ...\n    TuiDropdownSelectionModule,\n  ],\n  // ...\n})\nexport class MyModule {}\n```\n"}}]);

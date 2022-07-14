@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[28396],{28396:(u,n,a)=>{a.r(n),a.d(n,{default:()=>e});const e='<tui-calendar\n    [value]="value"\n    (dayClick)="onDayClick($event)"\n></tui-calendar>\n<div\n    *ngIf="value"\n    i18n\n>\n    Chosen date: {{ value }}\n</div>\n'}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[68938],{68938:(n,t,u)=>{u.r(t),u.d(t,{default:()=>a});const a='<tui-tag [value]="tag"></tui-tag>\n'}}]);

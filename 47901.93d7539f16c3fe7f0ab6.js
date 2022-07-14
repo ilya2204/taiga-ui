@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[47901],{47901:(o,n,e)=>{e.r(n),e.d(n,{default:()=>u});const u="```ts\nimport {TuiPdfViewerModule} from '@taiga-ui/kit';\n\n// ...\n\n@NgModule({\n  imports: [\n    // ...\n    TuiPdfViewerModule,\n  ],\n  // ...\n})\nexport class AppBrowserModule {}\n```\n"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[52094],{52094:(o,n,t)=>{t.r(n),t.d(n,{default:()=>u});const u='<tui-loader class="inline-flex">\n    <button\n        tuiButton\n        type="button"\n    >\n        Loading button\n    </button>\n</tui-loader>\n'}}]);

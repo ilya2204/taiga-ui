@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[70364],{70364:(a,n,e)=>{e.r(n),e.d(n,{default:()=>t});const t="<ng-container #viewContainer></ng-container>\n"}}]);

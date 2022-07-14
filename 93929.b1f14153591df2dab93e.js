@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[93929],{93929:(o,n,t)=>{t.r(n),t.d(n,{default:()=>u});const u='```html\n<ng-container [formGroup]="formName">\n  <tui-input-tag formControlName="controlName"></tui-input-tag>\n</ng-container>\n\n<tui-input-tag [(ngModel)]="model"></tui-input-tag>\n```\n'}}]);

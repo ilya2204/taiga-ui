@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[32053],{32053:(a,t,n)=>{n.r(t),n.d(t,{default:()=>u});const u='<tui-tag\n    size="l"\n    status="custom"\n    class="tag"\n    [hoverable]="true"\n    [value]="tag"\n></tui-tag>\n'}}]);

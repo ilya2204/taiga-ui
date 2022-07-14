@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[6382],{6382:e=>{e.exports='export default ".context-menu {\\n    width: 8rem;\\n}\\n";'}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[71711],{71711:(s,n,u)=>{u.r(n),u.d(n,{default:()=>l});const l='```html\n<div tuiOverscroll="all">...</div>\n```\n'}}]);

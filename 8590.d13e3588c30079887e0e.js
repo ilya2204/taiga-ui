@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[8590],{8590:(e,n,u)=>{u.r(n),u.d(n,{default:()=>t});const t="```ts\nimport {TuiLetModule} from '@taiga-ui/cdk';\n\n// ...\n\n@NgModule({\n  imports: [\n    // ...\n    TuiLetModule,\n  ],\n  // ...\n})\nexport class MyModule {}\n```\n"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[82527],{82527:(a,n,u)=>{u.r(n),u.d(n,{default:()=>t});const t='<tui-range\n    [formControl]="control"\n    [max]="10"\n    [quantum]="1"\n></tui-range>\n'}}]);

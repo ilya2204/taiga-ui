@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[14301],{14301:(e,n,s)=>{s.r(n),s.d(n,{default:()=>u});const u="<label>Your browser is:</label>\n\n<p>{{ aboutMyBrowser }}</p>\n"}}]);

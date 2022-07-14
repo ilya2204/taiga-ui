@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1596],{uJK6:function(n,o,i){"use strict";i.r(o),o.default='```html\n<div (tuiZoom)="onZoom($event)">...</div>\n```\n'}}]);

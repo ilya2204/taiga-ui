@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[87505],{87505:(t,n,e)=>{e.r(n),e.d(n,{default:()=>c});const c="```ts\nexport class MyComponent {\n  constructor(@Inject(TuiScrollService) private tuiScrollService: TuiScrollService) {}\n}\n```\n"}}]);

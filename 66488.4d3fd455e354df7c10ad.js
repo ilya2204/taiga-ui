@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[66488],{66488:(a,t,n)=>{n.r(t),n.d(t,{default:()=>e});const e="```ts\nimport {getPaymentSystem} from '@taiga-ui/kit';\n\n//...\npaymentSystem = getPaymentSystem(cardNumber);\n// ...\n```\n"}}]);

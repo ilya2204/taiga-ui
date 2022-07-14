@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[29418],{29418:(e,n,t)=>{t.r(n),t.d(n,{default:()=>o});const o='```html\n<tui-badged-content\n  [contentTop]="contentTop"\n  [colorTop]="colorTop"\n>\n  Content to wrap\n</tui-badged-content>\n```\n'}}]);

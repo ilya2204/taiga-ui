@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[99095],{99095:(t,n,e)=>{e.r(n),e.d(n,{default:()=>a});const a='<tui-calendar-month\n    [value]="value"\n    [min]="min"\n    [max]="max"\n    (monthClick)="onMonthClick($event)"\n></tui-calendar-month>\n<p>Selected range: {{ value }}</p>\n'}}]);

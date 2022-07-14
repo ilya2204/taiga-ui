@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[90516],{90516:(e,n,r)=>{r.r(n),r.d(n,{default:()=>u});const u='```html\n<tui-error [error]="error"></tui-error>\n```\n'}}]);

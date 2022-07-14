@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[64471],{64471:n=>{n.exports='export default "@media not @mobile-m {\\n    .tui-mobile-only {\\n        display: none !important;\\n    }\\n}\\n";'}}]);

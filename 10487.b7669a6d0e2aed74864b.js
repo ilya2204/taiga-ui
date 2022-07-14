@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[10487],{10487:(o,n,t)=>{t.r(n),t.d(n,{default:()=>u});const u='```html\n<button\n  tuiButton\n  icon="tuiIconSettings"\n>\n  Button\n</button>\n```\n'}}]);

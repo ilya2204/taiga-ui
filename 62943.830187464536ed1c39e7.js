@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[62943],{62943:(e,n,t)=>{t.r(n),t.d(n,{default:()=>u});const u='```html\n<div\n  class="wrapper"\n  [tuiTextfieldCleaner]="true"\n>\n  <tui-input>...</tui-input>\n</div>\n```\n'}}]);

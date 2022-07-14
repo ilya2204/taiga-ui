@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1669],{"206S":function(n,t,e){"use strict";e.r(t),t.default="```html\nFormatted number: {{index | tuiFormatNumber}}\n```\n"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[54288],{54288:(t,n,u)=>{u.r(n),u.d(n,{default:()=>e});const e='<tui-input-number\n    prefix="\xa5 "\n    decimal="never"\n    [postfix]="value ? \',00\' : \' ,00\'"\n    [(ngModel)]="value"\n>\n    Type a sum\n</tui-input-number>\n'}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[70773],{70773:(a,n,e)=>{e.r(n),e.d(n,{default:()=>t});const t='```html\n<div *ngFor="let item of items$ | async else loading empty blank">{{item}}</div>\n<ng-template #loading>Loading...</ng-template>\n<ng-template #blank>The list is empty</ng-template>\n```\n'}}]);

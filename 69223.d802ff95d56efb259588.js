@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[69223],{69223:(t,r,n)=>{n.r(r),n.d(r,{default:()=>o});const o='<tui-input-card-grouped\n    [cardSrc]="card"\n    [formControl]="control"\n></tui-input-card-grouped>\n<tui-error\n    [formControl]="control"\n    [error]="[] | tuiFieldError | async"\n></tui-error>\n'}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[4616],{4616:t=>{t.exports='export default ".text {\\n    font: var(--tui-font-text-s);\\n    color: var(--tui-text-03);\\n}\\n\\n.percent {\\n    font: var(--tui-font-heading-6);\\n}\\n";'}}]);

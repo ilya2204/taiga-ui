@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[77364],{77364:(u,t,a)=>{a.r(t),a.d(t,{default:()=>n});const n='```html\n<tui-avatar text="Batman"></tui-avatar>\n```\n'}}]);

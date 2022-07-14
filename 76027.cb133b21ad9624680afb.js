@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[76027],{76027:(i,t,n)=>{n.r(t),n.d(t,{default:()=>e});const e='<div\n    class="wrapper"\n    [tuiHintContent]="text"\n>\n    <tui-primitive-textfield [(value)]="text">Content</tui-primitive-textfield>\n</div>\n'}}]);

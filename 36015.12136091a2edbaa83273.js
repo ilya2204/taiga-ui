@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[36015],{36015:(e,n,t)=>{t.r(n),t.d(n,{default:()=>o});const o='```html\n<div\n  [tuiDropdownContent]="dropdownContent"\n  [tuiDropdown]="open"\n>\n  Host element\n</div>\n\n<ng-template #dropdownContent>Dropdown content</ng-template>\n```\n'}}]);

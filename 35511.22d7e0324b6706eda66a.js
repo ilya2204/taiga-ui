@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[35511],{35511:(e,u,n)=>{n.r(u),n.d(u,{default:()=>t});const t='```html\n<tui-input-number [postfix]="826 | tuiCurrency">Type a sum</tui-input-number>\n```\n'}}]);

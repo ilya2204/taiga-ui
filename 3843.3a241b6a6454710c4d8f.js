@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[3843],{3843:e=>{e.exports='export default ".table {\\n    width: 100%;\\n    table-layout: fixed;\\n}\\n\\n.error {\\n    color: white;\\n}\\n";'}}]);

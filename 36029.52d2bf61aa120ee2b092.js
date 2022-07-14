@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[36029],{36029:(o,n,t)=>{t.r(n),t.d(n,{default:()=>a});const a='<a\n    tuiAction\n    icon="tuiIconImgLarge"\n    target="_blank"\n    href="http://www.montypython.com/"\n>\n    It\'s\n</a>\n'}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[47259],{47259:(e,n,t)=>{t.r(n),t.d(n,{default:()=>o});const o="```html\nFormatted number: {{ phone | tuiFormatPhone}} Formatted number with custom params: {{ phone | tuiFormatPhone: 'country\ncode' : 'mask'}}\n```\n"}}]);

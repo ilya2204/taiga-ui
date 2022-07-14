@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[24220],{24220:(o,e,n)=>{n.r(e),n.d(e,{default:()=>t});const t="```ts\nimport {TuiDestroyService} from '@taiga-ui/cdk';\n\nexport class MyComponent {\n  constructor(@Inject(TuiDestroyService) private readonly destroy$: TuiDestroyService) {}\n}\n```\n"}}]);

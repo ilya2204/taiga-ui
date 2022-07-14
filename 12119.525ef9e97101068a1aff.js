@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[12119],{12119:(e,n,u)=>{u.r(n),u.d(n,{default:()=>o});const o="```ts\nimport {TuiCardModule} from '@taiga-ui/addon-commerce';\n\n// ...\n\n@NgModule({\n  imports: [\n    // ...\n    TuiCardModule,\n  ],\n  // ...\n})\nexport class MyModule {}\n```\n"}}]);

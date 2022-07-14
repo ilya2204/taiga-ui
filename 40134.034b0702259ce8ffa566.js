@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[40134],{40134:(a,n,t)=>{t.r(n),t.d(n,{default:()=>e});const e='<tui-pagination\n    [length]="7"\n    [content]="test"\n></tui-pagination>\n<ng-template\n    #test\n    let-index\n>\n    {{ days[index] }}\n</ng-template>\n'}}]);

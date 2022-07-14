@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[51220],{51220:e=>{e.exports='export default "tui-tree {\\n    overflow: hidden;\\n}\\n";'}}]);

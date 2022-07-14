@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[11270],{11270:(a,n,t)=>{t.r(n),t.d(n,{default:()=>u});const u='```html\n<tui-line-days-chart\n  [y]="0"\n  [height]="100"\n  [value]="value"\n></tui-line-days-chart>\n```\n'}}]);

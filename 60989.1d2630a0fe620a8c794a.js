@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[60989],{60989:(a,n,e)=>{e.r(n),e.d(n,{default:()=>t});const t='```html\n<tui-pagination\n  [length]="pageCount"\n  [index]="currentPage"\n  (indexChange)="goToPage($event)"\n></tui-pagination>\n```\n'}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[33370],{33370:(i,s,n)=>{n.r(s),n.d(s,{default:()=>o});const o="```js\nimport glob from 'glob';\n\nimport {processIcons} from '@taiga-ui/icons/scripts';\n\nglob('./my-path-to-icons/**/*.svg', {}, (_err, files) => processIcons(files));\n```\n"}}]);

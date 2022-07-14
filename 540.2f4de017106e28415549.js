@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[540],{Napf:function(n,i,a){"use strict";a.r(i),i.default="@import 'taiga-ui-local';\n\n.scroll {\n    .scrollbar-hidden();\n    min-height: 64px;\n    max-height: 200px;\n}\n"}}]);

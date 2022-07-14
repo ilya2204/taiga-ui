@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[60021],{60021:(o,n,t)=>{t.r(n),t.d(n,{default:()=>u});const u='```html\n<tui-input\n  formControlName="control"\n  [tuiValidator]="validator"\n></tui-input>\n```\n'}}]);

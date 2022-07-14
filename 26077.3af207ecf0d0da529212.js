@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[26077],{26077:(s,t,n)=>{n.r(t),n.d(t,{default:()=>o});const o='```html\n<tui-root>\n  \x3c!-- Your app content --\x3e\n  <tui-sheets-host ngProjectAs="tuiOverContent"></tui-sheets-host>\n</tui-root>\n```\n'}}]);

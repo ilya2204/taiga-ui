@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[73179],{73179:(o,e,t)=>{t.r(e),t.d(e,{default:()=>n});const n='```html\n<div [formGroup]="testForm">\n  <tui-checkbox-labeled formControlName="testValue">Label</tui-checkbox-labeled>\n</div>\n```\n'}}]);

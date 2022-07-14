@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[46419],{46419:t=>{t.exports='export default ".template {\\n    background: var(--tui-primary);\\n    color: var(--tui-primary-text);\\n    padding: 0 0.375rem;\\n}\\n";'}}]);

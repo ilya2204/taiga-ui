@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[56498],{56498:(t,n,s)=>{s.r(n),s.d(n,{default:()=>u});const u="```json5\n{\n  //...\n  assets: [\n    {\n      glob: '**/*',\n      input: 'node_modules/@taiga-ui/icons/src',\n      output: 'assets/taiga-ui/icons',\n    },\n  ],\n}\n```\n"}}]);

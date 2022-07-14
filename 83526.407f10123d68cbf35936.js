@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[83526],{83526:(e,n,u)=>{u.r(n),u.d(n,{default:()=>o});const o="```ts\nimport {TuiPullToRefreshModule} from '@taiga-ui/addon-mobile';\n\n// ...\n\n@NgModule({\n  imports: [\n    // ...\n    TuiPullToRefreshModule,\n  ],\n  // ...\n})\nexport class MyModule {}\n```\n"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[8763],{8763:(t,e,n)=>{n.r(e),n.d(e,{default:()=>s});const s='<tui-reorder\n    class="list"\n    [(items)]="items"\n    [(enabled)]="enabled"\n></tui-reorder>\n'}}]);

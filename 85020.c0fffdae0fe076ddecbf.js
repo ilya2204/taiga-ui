@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[85020],{85020:(e,n,s)=>{s.r(n),s.d(n,{default:()=>u});const u='```html\n<tui-progress-circle\n  [max]="100"\n  [value]="70"\n></tui-progress-circle>\n```\n'}}]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[759],{"d/vu":function(n,u,i){"use strict";i.r(u),u.default="```ts\nimport {TuiInputInlineModule} from '@taiga-ui/kit';\n\n// ...\n\n@NgModule({\n  imports: [\n    // ...\n    TuiInputInlineModule,\n  ],\n  // ...\n})\nexport class MyModule {}\n```\n"}}]);

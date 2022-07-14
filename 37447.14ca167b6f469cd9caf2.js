@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[37447],{37447:(u,s,e)=>{e.r(s),e.d(s,{default:()=>n});const n='<tui-progress-segmented\n    class="progress"\n    [max]="5"\n    [value]="3"\n></tui-progress-segmented>\n'}}]);

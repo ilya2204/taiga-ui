@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[80437],{80437:(a,e,t)=>{t.r(e),t.d(e,{default:()=>n});const n="```html\n<ng-template #tableBarTemplate><p>Template</p></ng-template>\n```\n"}}]);

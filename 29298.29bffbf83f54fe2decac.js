@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[29298],{29298:(o,n,t)=>{t.r(n),t.d(n,{default:()=>i});const i='<tui-island\n    tuiPointerHint="Wow! How exciting!"\n    tuiHintDirection="top-left"\n    class="block"\n>\n    <p>In this block hint follows cursor</p>\n</tui-island>\n'}}]);

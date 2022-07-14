@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[27368],{27368:(u,n,s)=>{s.r(n),s.d(n,{default:()=>o});const o='```html\n<span [tuiCopyProcessor]="processor">\n  ...\n</div>\n```\n'}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[70809],{70809:(e,t,n)=>{n.r(t),n.d(t,{default:()=>o});const o='<tui-editor\n    new\n    class="editor"\n    [formControl]="control"\n    [tools]="builtInTools"\n></tui-editor>\n\n<h4>HTML:</h4>\n<tui-editor-socket [content]="control.value"></tui-editor-socket>\n'}}]);

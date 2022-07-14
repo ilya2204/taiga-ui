@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[18829],{18829:(u,n,i)=>{i.r(n),i.d(n,{default:()=>t});const t='```html\n<a\n  tuiLink\n  href="#"\n>\n  Link\n</a>\n\n<a\n  tuiLink\n  iconAlign="left"\n  href="#"\n  [icon]="tuiIconSettings"\n>\n  Link with icon left\n</a>\n```\n'}}]);

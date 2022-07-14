@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[38753],{38753:(t,n,u)=>{u.r(n),u.d(n,{default:()=>e});const e='<tui-marker-icon src="tuiIconBellLarge"></tui-marker-icon>\n'}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[65161],{65161:(u,t,e)=>{e.r(t),e.d(t,{default:()=>i});const i='```html\n<tui-primitive-textfield [(value)]="value">Type something</tui-primitive-textfield>\n```\n'}}]);

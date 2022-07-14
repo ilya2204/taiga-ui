@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1219],{iSKq:function(n,i,o){"use strict";o.r(i),i.default="@import 'taiga-ui-local';\n\nlabel {\n    cursor: pointer;\n}\n"}}]);

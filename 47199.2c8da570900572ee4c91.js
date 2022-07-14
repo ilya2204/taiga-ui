@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[47199],{47199:(a,n,s)=>{s.r(n),s.d(n,{default:()=>u});const u="```bash\nnpm i @taiga-ui/{cdk,core,kit,icons}\n```\n"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[84684],{84684:(l,n,o)=>{o.r(n),o.d(n,{default:()=>u});const u="```ts\nimport {TuiScrollbarModule} from '@taiga-ui/core';\n\n// ...\n\n@NgModule({\n  // ...\n  imports: [\n    //  ...\n    TuiScrollbarModule,\n  ],\n  // ...\n})\nexport class MyModule {}\n```\n"}}]);

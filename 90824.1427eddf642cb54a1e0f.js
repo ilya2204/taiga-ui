@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[90824],{90824:(o,t,e)=>{e.r(t),e.d(t,{default:()=>n});const n='```html\n<form [formGroup]="testForm">\n  <tui-text-area formControlName="testValue">Bio</tui-text-area>\n</form>\n```\n'}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[17134],{17134:(e,n,t)=>{t.r(n),t.d(n,{default:()=>u});const u="```html\nFormatted number: {{index | tuiFormatNumber}}\n```\n"}}]);

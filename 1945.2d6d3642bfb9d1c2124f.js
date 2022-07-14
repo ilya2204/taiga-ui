@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[1945],{1945:(e,n,s)=>{s.r(n),s.d(n,{default:()=>u});const u='```html\n<progress\n  tuiProgressBar\n  [value]="40"\n  [max]="100"\n></progress>\n```\n'}}]);

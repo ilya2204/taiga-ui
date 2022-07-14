@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[57261],{57261:(u,o,c)=>{c.r(o),c.d(o,{default:()=>n});const n='```html\n<tui-color-picker [(color)]="color"></tui-color-picker>\n```\n'}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[74215],{74215:n=>{n.exports='export default ".island {\\n    max-width: 20rem;\\n}\\n\\n.clamp {\\n    pointer-events: none;\\n}\\n";'}}]);

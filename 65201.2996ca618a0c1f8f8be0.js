@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[65201],{65201:(t,s,a)=>{a.r(s),a.d(s,{default:()=>n});const n="```less\n@import '~@taiga-ui/core/styles/taiga-ui-local';\n```\n"}}]);

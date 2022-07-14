@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1579],{"0ByP":function(n,i,w){"use strict";w.r(i),i.default='```html\n<div (tuiSwipe)="..."></div>\n```\n'}}]);

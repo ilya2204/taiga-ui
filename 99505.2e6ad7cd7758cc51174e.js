@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[99505],{99505:(o,n,t)=>{t.r(n),t.d(n,{default:()=>u});const u='<button\n    tuiButton\n    type="button"\n    size="m"\n    (click)="showDialog()"\n>\n    Show\n</button>\n'}}]);

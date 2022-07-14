@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[58107],{58107:(s,t,n)=>{n.r(t),n.d(t,{default:()=>e});const e='<tui-stepper\n    orientation="vertical"\n    [activeItemIndex]="1"\n>\n    <button\n        *ngFor="let step of steps"\n        tuiStep\n    >\n        {{ step }}\n    </button>\n</tui-stepper>\n'}}]);

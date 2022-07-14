@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[13417],{13417:(s,n,u)=>{u.r(n),u.d(n,{default:()=>t});const t='```html\n<div (tuiPan)="..."></div>\n```\n'}}]);

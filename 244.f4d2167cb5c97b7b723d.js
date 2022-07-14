@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[244],{veH4:function(n,e,a){"use strict";a.r(e),e.default="[tuiWrapper][data-appearance='none'] {\n    &:after {\n        border: none;\n    }\n}\n"}}]);

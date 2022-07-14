@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[32045],{32045:(t,u,n)=>{n.r(u),n.d(u,{default:()=>s});const s="<p>100 {{ 'RUB' | tuiCurrency }}</p>\n"}}]);

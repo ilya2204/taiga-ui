@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[81176],{81176:e=>{e.exports='export default "li {\\n    height: 2rem;\\n    cursor: pointer;\\n}\\n";'}}]);

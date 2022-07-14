@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[57063],{57063:(u,n,o)=>{o.r(n),o.d(n,{default:()=>t});const t='```html\n<div (tuiZoom)="onZoom($event)">...</div>\n```\n'}}]);

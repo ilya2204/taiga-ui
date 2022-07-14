@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[85828],{85828:(p,n,u)=>{u.r(n),u.d(n,{default:()=>a});const a="<p>Transform 10 into {{ 10 | tuiMapper: mapper:'\u20bd' }}</p>\n"}}]);

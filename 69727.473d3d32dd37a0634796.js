@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[69727],{69727:(i,n,a)=>{a.r(n),a.d(n,{default:()=>e});const e='<div class="example">\n    <tui-mobile-calendar\n        [min]="min"\n        [max]="max"\n        [single]="false"\n    ></tui-mobile-calendar>\n</div>\n'}}]);

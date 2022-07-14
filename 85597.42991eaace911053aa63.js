@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[85597],{85597:e=>{e.exports='export default ".field {\\n    min-height: 3.5rem;\\n}\\n";'}}]);

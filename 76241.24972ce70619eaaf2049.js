@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[76241],{76241:(t,n,u)=>{u.r(n),u.d(n,{default:()=>o});const o="```ts\nimport {TuiValidatorModule} from '@taiga-ui/cdk';\n\n// ...\n\n@NgModule({\n  imports: [\n    // ...\n    TuiValidatorModule,\n  ],\n  // ...\n})\nexport class MyModule {}\n```\n"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[94351],{94351:(o,n,e)=>{e.r(n),e.d(n,{default:()=>i});const i="```ts\nimport {TuiPrimitiveCheckboxModule} from '@taiga-ui/core';\n\n// ...\n\n@NgModule({\n  imports: [\n    // ...\n    TuiPrimitiveCheckboxModule,\n  ],\n  // ...\n})\nexport class MyModule {}\n```\n"}}]);

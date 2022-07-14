@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[51428],{51428:(o,n,t)=>{t.r(n),t.d(n,{default:()=>u});const u='```html\n<tui-combo-box\n  [stringify]="\'name\' | tuiStringify"\n  [(ngModel)]="value"\n>\n  \x3c!-- ... --\x3e\n</tui-combo-box>\n```\n'}}]);

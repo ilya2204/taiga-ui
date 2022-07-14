@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[32426],{32426:(l,n,e)=>{e.r(n),e.d(n,{default:()=>t});const t='```html\n<tui-editor\n  new\n  exampleText="Example"\n  [(ngModel)]="model"\n>\n  Placeholder\n</tui-editor>\n```\n'}}]);

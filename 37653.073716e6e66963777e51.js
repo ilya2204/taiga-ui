@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[37653],{37653:(e,n,u)=>{u.r(n),u.d(n,{default:()=>o});const o="```ts\nimport {TuiMarkerIconModule} from '@taiga-ui/kit';\n\n// ...\n\n@NgModule({\n  imports: [...TuiMarkerIconModule],\n  // ...\n})\nexport class MyModule {}\n```\n"}}]);

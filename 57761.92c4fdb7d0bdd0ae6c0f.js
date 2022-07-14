@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[57761],{57761:(i,n,u)=>{u.r(n),u.d(n,{default:()=>t});const t="```html\n<tui-island tuiRipple>...</tui-island>\n```\n"}}]);

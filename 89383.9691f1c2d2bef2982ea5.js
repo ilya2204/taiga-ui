@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[89383],{89383:(u,n,e)=>{e.r(n),e.d(n,{default:()=>t});const t="```html\n{{item | tuiMapper: mapper: someArg}}\n```\n"}}]);

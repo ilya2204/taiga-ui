@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[60044],{60044:e=>{e.exports='export default ".hidden {\\n    display: none;\\n}\\n";'}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[48606],{48606:(a,n,s)=>{s.r(n),s.d(n,{default:()=>e});const e="```ts\nexport class MyComponent {\n  scale = 1;\n\n  onZoom(scale: TuiScale) {\n    this.scale += scale.delta;\n  }\n}\n```\n"}}]);

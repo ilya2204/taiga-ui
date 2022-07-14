@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[646],{Z9ci:function(n,w,i){"use strict";i.r(w),w.default=".group {\n    max-width: 30.25rem;\n}\n"}}]);

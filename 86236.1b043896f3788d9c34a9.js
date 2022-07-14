@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[86236],{86236:(s,n,u)=>{u.r(n),u.d(n,{default:()=>a});const a='```html\n<tui-card\n  cardNumber="1234"\n  class="logo"\n></tui-card>\n```\n'}}]);

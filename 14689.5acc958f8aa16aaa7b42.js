@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[14689],{14689:(a,n,t)=>{t.r(n),t.d(n,{default:()=>u});const u="```html\n<tui-calendar-month></tui-calendar-month>\n```\n"}}]);

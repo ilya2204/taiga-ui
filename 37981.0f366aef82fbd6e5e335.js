@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[37981],{37981:(e,u,n)=>{n.r(u),n.d(u,{default:()=>a});const a='```html\n<tui-axes [value]="value"></tui-axes>\n```\n'}}]);

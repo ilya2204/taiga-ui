@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[40290],{40290:e=>{e.exports='export default ".slider {\\n    width: 12.5rem;\\n    margin-bottom: 1em;\\n}\\n";'}}]);

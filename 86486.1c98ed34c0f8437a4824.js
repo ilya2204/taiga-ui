@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[86486],{50083:(u,n,t)=>{t.r(n),t.d(n,{default:()=>o});const o='```html\n<form [formGroup]="testForm">\n  <tui-input-phone formControlName="testValue">Type phone number</tui-input-phone>\n</form>\n```\n'}}]);

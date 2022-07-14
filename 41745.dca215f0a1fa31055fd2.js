@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[41745],{41745:(e,n,u)=>{u.r(n),u.d(n,{default:()=>s});const s="<p>Transform {{ numbers }} into {{ numbers | tuiMapper: mapper:3 }}</p>\n"}}]);

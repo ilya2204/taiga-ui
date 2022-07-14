@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[85640],{85640:(i,t,e)=>{e.r(t),e.d(t,{default:()=>n});const n='```html\n<div *ngFor="let item of items | tuiFilter: matcher: someArg">{{item}}</div>\n```\n'}}]);

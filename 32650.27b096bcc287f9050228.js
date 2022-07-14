@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[32650],{32650:n=>{n.exports="export default \"@import 'taiga-ui-local';\\n\\n.table {\\n    width: 40rem;\\n}\\n\\n.name {\\n    width: 10rem;\\n}\\n\";"}}]);

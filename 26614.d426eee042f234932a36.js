@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[26614],{26614:(l,n,t)=>{t.r(n),t.d(n,{default:()=>e});const e='<h4>Start content</h4>\n<label\n    polymorpheus-outlet\n    [content]="label"\n    [context]="{$implicit: status}"\n></label>\n<h4>End content</h4>\n'}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[82089],{82089:(o,t,n)=>{n.r(t),n.d(t,{default:()=>e});const e='```html\n<form [formGroup]="testForm">\n  <tui-input-date-range formControlName="testValue">Choose dates</tui-input-date-range>\n</form>\n```\n'}}]);

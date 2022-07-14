@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[7222],{7222:(a,s,n)=>{n.r(s),n.d(s,{default:()=>t});const t='<label class="label">\n    <span class="text">From custom label component with</span>\n    <tui-svg src="tuiIconHeart"></tui-svg>\n</label>\n'}}]);

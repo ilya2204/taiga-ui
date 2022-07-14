@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[48687],{48687:(u,t,n)=>{n.r(t),n.d(t,{default:()=>o});const o='```html\n<tui-tooltip\n  content="Please don\'t touch this"\n  direction="left"\n></tui-tooltip>\n```\n'}}]);

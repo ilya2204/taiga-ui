@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[23251],{23251:(t,n,e)=>{e.r(n),e.d(n,{default:()=>s});const s='<tui-slider\n    [formControl]="testValue"\n    [keySteps]="keySteps"\n    [min]="5000"\n    [max]="1000000"\n    [segments]="3"\n    [steps]="3"\n></tui-slider>\n'}}]);

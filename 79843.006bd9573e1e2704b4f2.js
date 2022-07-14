@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[79843],{79843:(t,n,e)=>{e.r(n),e.d(n,{default:()=>l});const l='```html\n<tui-scrollbar\n  #element="elementRef"\n  tuiElement\n>\n  <some-infinite-scroll-library [scrollingElement]="element.nativeElement">...</some-infinite-scroll-library>\n</tui-scrollbar>\n```\n'}}]);

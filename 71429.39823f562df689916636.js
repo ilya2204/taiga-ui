@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[71429],{4706:(a,e,n)=>{n.r(e),n.d(e,{default:()=>u});const u='<tui-badge\n    size="l"\n    class="badge"\n    [value]="100"\n    [hoverable]="true"\n></tui-badge>\n'}}]);

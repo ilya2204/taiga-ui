@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[39636],{39636:(e,n,t)=>{t.r(n),t.d(n,{default:()=>u});const u='<tui-input-tag\n    class="b-form"\n    [tuiTextfieldLabelOutside]="true"\n    [formControl]="control"\n>\n    I\'m a\n    <i>placeholder</i>\n</tui-input-tag>\n'}}]);

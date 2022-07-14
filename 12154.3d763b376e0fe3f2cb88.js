@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[12154],{12154:(o,t,n)=>{n.r(t),n.d(t,{default:()=>u});const u='<form\n    class="b-form"\n    [formGroup]="testForm"\n>\n    <tui-input-time formControlName="testValue">Max: 47h 59m</tui-input-time>\n</form>\n'}}]);

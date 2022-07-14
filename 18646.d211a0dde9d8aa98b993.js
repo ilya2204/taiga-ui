@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[18646],{18646:e=>{e.exports='export default ".invert {\\n    color: inherit;\\n    filter: invert(1);\\n}\\n";'}}]);

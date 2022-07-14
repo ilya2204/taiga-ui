@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[43598],{43598:(i,n,u)=>{u.r(n),u.d(n,{default:()=>t});const t="```ts\nimport {TuiTagModule} from '@taiga-ui/kit';\n\n...\n\n@NgModule({\n    imports: [\n        ...\n        TuiTagModule\n    ],\n...\n\n```\n"}}]);

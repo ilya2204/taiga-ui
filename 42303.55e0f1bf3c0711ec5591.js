@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[42303],{42303:(a,t,n)=>{n.r(t),n.d(t,{default:()=>u});const u="<p>{{ flatted }} = flatLength([[1, 2], [3, 4], [5, 6]]);</p>\n"}}]);

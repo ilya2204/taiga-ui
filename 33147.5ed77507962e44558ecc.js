@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[33147],{33147:n=>{n.exports='export default ":host {\\n    display: block;\\n}\\n\\n.more {\\n    color: var(--tui-link);\\n\\n    &:focus {\\n        color: var(--tui-link-hover);\\n    }\\n}\\n";'}}]);

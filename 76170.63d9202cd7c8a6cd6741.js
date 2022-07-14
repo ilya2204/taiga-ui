@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[76170],{76170:(o,n,t)=>{t.r(n),t.d(n,{default:()=>u});const u='```html\n<ng-container [formGroup]="testForm">\n  <tui-input-count formControlName="testValue"></tui-input-count>\n</ng-container>\n```\n'}}]);

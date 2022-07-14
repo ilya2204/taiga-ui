@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1197],{fuL4:function(n,o,u){"use strict";u.r(o),o.default="```ts\nimport {TuiScrollbarModule} from '@taiga-ui/core';\n\n// ...\n\n@NgModule({\n  // ...\n  imports: [\n    //  ...\n    TuiScrollbarModule,\n  ],\n  // ...\n})\nexport class MyModule {}\n```\n"}}]);

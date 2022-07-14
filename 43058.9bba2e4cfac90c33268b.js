@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[43058],{43058:(i,t,n)=>{n.r(t),n.d(t,{default:()=>u});const u='```html\n<tui-input [formControl]="user">\n  User\n  <tui-data-list-wrapper\n    *tuiDataList\n    [items]="items | tuiFilterByInput"\n  ></tui-data-list-wrapper>\n</tui-input>\n```\n'}}]);

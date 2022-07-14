@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[91712],{91712:(u,n,i)=>{i.r(n),i.d(n,{default:()=>t});const t='```html\n<div\n  [tuiHighlight]="query"\n  [tuiHighlightColor]="\'#228B22\'"\n>\n  ...\n</div>\n```\n'}}]);

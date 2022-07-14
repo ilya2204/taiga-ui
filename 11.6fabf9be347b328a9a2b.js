@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{"dh+4":function(n,e,i){"use strict";i.r(e),e.default=".slider {\n    width: 12.5rem;\n    margin-bottom: 1em;\n}\n"}}]);

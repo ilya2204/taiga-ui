@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[73872],{73872:(s,n,e)=>{e.r(n),e.d(n,{default:()=>t});const t="```ts\n@Injectable({\n  providedIn: 'root',\n})\nexport class MyPortalService extends AbstractTuiPortalService {}\n```\n"}}]);

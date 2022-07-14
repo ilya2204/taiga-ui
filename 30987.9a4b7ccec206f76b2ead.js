@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[30987],{30987:(u,n,o)=>{o.r(n),o.d(n,{default:()=>s});const s="```ts\nimport {TuiCopyProcessorModule} from '@taiga-ui/core';\n\n// ...\n\n@NgModule({\n  imports: [\n    // ...\n    TuiCopyProcessorModule,\n  ],\n  // ...\n})\nexport class MyModule {}\n```\n"}}]);

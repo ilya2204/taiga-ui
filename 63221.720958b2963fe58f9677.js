@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[63221],{63221:(a,n,t)=>{t.r(n),t.d(n,{default:()=>u});const u='```html\n<tui-rating [(ngModel)]="value"></tui-rating>\n```\n'}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[95460],{95460:(e,u,n)=>{n.r(u),n.d(u,{default:()=>t});const t='```html\n<tui-pull-to-refresh (pulled)="onPulled()">content</tui-pull-to-refresh>\n```\n'}}]);

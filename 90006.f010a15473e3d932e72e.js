@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[90006],{90006:(n,u,a)=>{a.r(u),a.d(u,{default:()=>s});const s='<tui-bar class="bar"></tui-bar>\n'}}]);

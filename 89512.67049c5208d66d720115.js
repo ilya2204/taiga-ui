@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[89512],{89512:(s,n,t)=>{t.r(n),t.d(n,{default:()=>a});const a='```html\n<img\n  src="myImage.jpg"\n  height="200"\n  width="300"\n  loading="lazy"\n/>\n```\n'}}]);

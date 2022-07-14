@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[37694],{37694:(e,n,t)=>{t.r(n),t.d(n,{default:()=>o});const o='```html\n<div\n  tuiDropdownAlign="left"\n  class="wrapper"\n>\n  <tui-hosted-dropdown\n    [open]="open"\n    [content]="content"\n  >\n    ...\n  </tui-hosted-dropdown>\n</div>\n```\n'}}]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[503],{"4ST9":function(n,e,o){"use strict";o.r(e),e.default=".example {\n    color: var(--tui-text-03);\n}\n"}}]);

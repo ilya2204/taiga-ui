@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[34311],{34311:(e,n,a)=>{a.r(n),a.d(n,{default:()=>l});const l='<label\n    tuiLabel\n    label="Taiga"\n>\n    Angular Component Library\n</label>\n'}}]);

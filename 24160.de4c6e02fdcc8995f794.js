@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[24160],{24160:(s,n,o)=>{o.r(n),o.d(n,{default:()=>t});const t="```ts\nimport {FormControl} from '@angular/forms';\n\n// ...\n\n@Component({\n  // ...\n})\nexport class MyComponent {\n  readonly control = new FormControl(1);\n}\n```\n"}}]);
